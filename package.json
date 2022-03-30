@@ -1,0 +1,22 @@
+{
+  "name": "testing-practices-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangwa7/testing-practices-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangwa7/testing-practices-javascript/issues"
+  },
+  "homepage": "https://github.com/sangwa7/testing-practices-javascript#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
